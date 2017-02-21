@@ -298,8 +298,8 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells, and for customizing the shell aesthetically.
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y) and [Quinn Souther](https://github.com/qrsouther)*
 
 #### What is the `$PATH` variable?
 
@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A remotely accessible computer that is tasked with responding to requests from a client.
 
-*Contributed by [Unknown]*
+*Contributed by [Quinn Souther](https://github.com/qrsouther)*
 
 
 #### Bugs
@@ -530,6 +530,10 @@ The markup language which specifies the structure of all the pieces of a webpage
 Hypertext markup language:  The coding read by web browsers that dictates the layout and style of coding within a web server.
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
+Hypertext Markup Language is the language used to deliver the content and structure of a webpage.
+
+*Contributed by [Quinn Souther](https://github.com/qrsouther)*
 
 
 #### CSS
